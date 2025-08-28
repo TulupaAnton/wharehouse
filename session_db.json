@@ -3,15 +3,15 @@
     {
       "id": "1013097870:1013097870",
       "data": {
-        "state": "adding_warehouse",
-        "warehouse": "🏠 Серий гараж"
+        "state": null,
+        "warehouse": "🏡 Дом"
       }
     },
     {
       "id": "5138895047:5138895047",
       "data": {
-        "state": null,
-        "warehouse": "Склад1"
+        "state": "adding_product",
+        "warehouse": "🏠 Серий гараж"
       }
     },
     {
@@ -19,6 +19,13 @@
       "data": {
         "state": null,
         "warehouse": "Склад1"
+      }
+    },
+    {
+      "id": "1506043660:1506043660",
+      "data": {
+        "state": null,
+        "warehouse": "📦 Катлаван"
       }
     }
   ]
